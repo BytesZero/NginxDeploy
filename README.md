@@ -321,21 +321,3 @@ $ sudo service nginx restart
 ![](images/20site.png)
 
 ### Nginx 配置全站 https（待补充）
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1. 1. 
