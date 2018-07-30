@@ -1,0 +1,8 @@
+*.zip
+*.conf
+*.pem
+*.key
+*.csr
+*.crt
+*.pfx
+*.jks
